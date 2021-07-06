@@ -27,13 +27,13 @@ Goal of the system :
 6. Pandas
 
 # Architecture Diagram
-![](images/Architecture)
+![](images/Architecture.png)
 
 # Story Boarding
-![](images/Story)
+![](images/Story.png)
 
 # Future Planning of UI
-![](images/UI%20Idea)
+![](images/UI%20Idea.png)
 
 
 # Contributors
