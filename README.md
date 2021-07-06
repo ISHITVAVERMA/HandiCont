@@ -33,7 +33,7 @@ Goal of the system :
 ![](images/Story)
 
 # Future Planning of UI
-![](images/UI Idea)
+![](images/UI%20Idea)
 
 
 # Contributors
