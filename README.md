@@ -1,4 +1,4 @@
-# Mouse Cursor Control Using Facial Movements ------------> HandiCont
+# Mouse Cursor Control Using Facial Movements -----> HandiCont
 
 This HCI (Human-Computer Interaction) application in Python(3.6) will allow you to control your mouse cursor with your facial movements, works with just your 
 regular webcam. Its hands-free, no wearable hardware or sensors needed.
@@ -17,3 +17,12 @@ Goal of the system :
 3. Controlling mouse motions using facial gesture
 4. To eliminating the limitations of stationary head
 5. To provide real time eye tracking
+
+# Software Used
+1. Python (>= v3.5)
+2. NumPy (>= v1.11.0)
+3. SciPy (>= v0.17.0)
+4. joblib (>= v0.11)
+5. scikit-learn
+6. Pandas
+
