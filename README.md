@@ -26,3 +26,17 @@ Goal of the system :
 5. scikit-learn
 6. Pandas
 
+# Architecture Diagram
+![](image/Architecture)
+
+# Story Boarding
+![](image/Story)
+
+# Future Planning of UI
+![](image/UI Idea)
+
+
+# Contributors
+<a href = "https://github.com/ISHITVAVERMA">1. Ishitva Verma </a></br>
+<a href = "https://github.com/Akash708231">2. Akash Butar </a></br>
+
