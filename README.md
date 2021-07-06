@@ -40,3 +40,11 @@ Goal of the system :
 <a href = "https://github.com/ISHITVAVERMA">1. Ishitva Verma </a></br>
 <a href = "https://github.com/Akash708231">2. Akash Butar </a></br>
 
+# Output
+![](images/O1.png)
+![](images/O2.png)
+
+
+<p align="center">
+	Made with :heart:
+</p>
